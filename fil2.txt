@@ -1,1 +1,2 @@
 Hello all.
+added this text in fil2.txt
